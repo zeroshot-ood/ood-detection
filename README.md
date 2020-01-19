@@ -1,3 +1,5 @@
+<b>Note:</b> Updated repository (with additional results) is available [here](https://github.com/VectorInstitute/gram-ood-detection) and the arXiv paper is available [here](https://arxiv.org/abs/1912.12510.pdf).
+
 # Zero-Shot Out-of-Distribution Detection with Feature Correlations
 Anonymized Code for openreview submission: https://openreview.net/forum?id=r1g6MCEtwr
 
